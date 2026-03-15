@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitara-21&label=Profile%20views&color=0e75b6&style=flat" alt="sitara-21" /> </p>
 
-- 🔭 I like working on **everything related to real-world applications of AI/ML from developing SOTA models to productionizing and assessing the impact of powerful AI/ML models**
+- 🔭 I like working on **everything related to real-world applications of AI/ML from developing SOTA models to productionizing and assessing their impact on the business**
 
 - 🌱 I’m currently learning **everything about GenAI and Agentic AI**
 
