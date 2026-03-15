@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitara-21&label=Profile%20views&color=0e75b6&style=flat" alt="sitara-21" /> </p>
 
-- 🔭 I like working on **building and deploying machine learning solutions that operate reliably at scale and drive measurable real-world impact**
+- 🔭 I like **building and deploying machine learning solutions that operate reliably at scale and drive measurable real-world impact**
 
 - 🌱 I’m currently learning **everything about GenAI and Agentic AI**
 
