@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **ankit.singh21793@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ankit-singh-11691b132/](https://www.linkedin.com/in/ankit-singh-11691b132/)
+- 👔 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ankit-singh-11691b132/)
+
+- 📄 Know about my research work [Google Scholar](https://scholar.google.com/citations?user=b_9zQMoAAAAJ&hl=en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
